@@ -15,7 +15,7 @@ reverse engineering, CTFs and the security of LLM agents.
 | --- | --- |
 | [**llm_ida_c2_analysis**](https://github.com/ilia-ershov/llm_ida_c2_analysis) | LLM agent that reverse-engineers malware C2 protocols through a headless IDA Pro over MCP, verifies its findings with Capstone and Unicorn emulation, and writes a report and a working protocol client |
 | [**MCP Firewall**](https://github.com/ilia-ershov/mcp_firewall) | Protocol-aware proxy that shields AI agents from prompt injection, secret leaks and obfuscated payloads in MCP tool output, with a reproducible safe/unsafe demo |
-| [**Veil**](https://github.com/ilia-ershov/iershov_application) · [live](https://veil.ershov.me/) | Web service that issues a separate forwarding e-mail address for every website, protecting users from data-breach lookups and targeted phishing (Flask, PostgreSQL, React) |
+| [**Veil**](https://github.com/ilia-ershov/veil) · [live](https://veil.ershov.me/) | Web service that issues a separate forwarding e-mail address for every website, protecting users from data-breach lookups and targeted phishing (Flask, PostgreSQL, React) |
 | [**ABOB**](https://github.com/ilia-ershov/abob) | Text-mode web browser in C with ncurses and Vim keybindings, co-developed with a classmate |
 | [**fcard**](https://github.com/Andrewchistyakov/flashcards_lyc) | Team C++ project: command-line flashcards app with tests in GitHub Actions; I wrote the core card logic, CSV storage, review TUI and tests |
 
