@@ -4,7 +4,7 @@ First-year Information Security student at HSE University (Moscow). I work on
 reverse engineering, CTFs and the security of LLM agents.
 
 - 🏆 Three-time prize-winner of the national final of the All-Russian School
-  Olympiad in Information Security (2024, 2025, 2026)
+  Olympiad in Informatics, Information Security track (2024, 2025, 2026)
 - 🔬 Information-security intern at Sber (2026) and Kaspersky "Technology Valley" (2023)
 - 🚩 Led the HSE Lyceum CTF community for two years (100 → 250 members)
 - 👨‍🏫 Teach the Moscow information-security olympiad team (about 300 students)
@@ -24,8 +24,12 @@ reverse engineering, CTFs and the security of LLM agents.
 
 ## CTF
 
-- Play on CTFtime teams [274325](https://ctftime.org/team/274325) and [281646](https://ctftime.org/team/281646); mostly reverse engineering and pwn.
-- M\*CTF Junior Finals — 1st place (team), 2023; CU School CTF — 4th place, 2025.
+- CU School CTF (Central University) — 3rd of about 80 teams, 2026; 4th place, 2025.
+- Innopolis Open International Olympiad in Information Security — 4th place, 2026.
+- Russian CTF Cup, school division — finalist, December 2024 and December 2025.
+- National Technology Olympiad, Information Security track — finalist, 2024.
+- M\*CTF Junior Finals — 1st place as team captain, 2023.
+- Play on CTFtime teams [274325](https://ctftime.org/team/274325) and [281646](https://ctftime.org/team/281646); mostly reverse engineering and web.
 - Practice on Hack The Box and Web-Kids (around 200th of ~7,700).
 
 ## Stack
